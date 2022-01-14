@@ -6,6 +6,9 @@ Hi there, I'm Jeff 👋
 - 🤔 I’m looking for help with paid ads
 - 💬 Ask me about textiles
 - ⚡ Fun fact: I love Malt-O-Meal
-- 📫 Contact me: 
--                - https://openmakers.io/jeffsvicarovich
+- 📫 Contact me:
+
+
+               https://openmakers.io/jeffsvicarovich
+               https://hashnode.com/@jeffsvic
 
