@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there, I'm Jeff 👋
 
 - 🔭 I’m currently working on a Shopify ecommerce store for home textiles
 - 🌱 I’m currently learning Shopfy
@@ -7,4 +7,3 @@ Hi there 👋
 - 💬 Ask me about ...
 - 📫 How to reach me: https://openmakers.io/jeffsvicarovich
 - ⚡ Fun fact: 
-
